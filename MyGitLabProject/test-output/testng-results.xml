@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="50515" started-at="2018-08-18T15:40:15Z" finished-at="2018-08-18T15:41:05Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="50515" started-at="2018-08-18T15:40:15Z" finished-at="2018-08-18T15:41:05Z">
+      <class name="MyGitLabScreenCapture">
+        <test-method status="PASS" signature="myTestScreenGit()" name="myTestScreenGit" duration-ms="50492" started-at="2018-08-18T15:40:15Z" finished-at="2018-08-18T15:41:05Z">
+        </test-method>
+      </class>
+    </test>
+  </suite>
+</testng-results>
